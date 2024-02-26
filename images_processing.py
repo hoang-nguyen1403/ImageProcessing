@@ -26,3 +26,4 @@ Weighted_Gray = (0 * B) + (0 * G) + (1 * R)
 cv2.imshow('image', imgGray)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+# https://www.baeldung.com/cs/convert-rgb-to-grayscale
